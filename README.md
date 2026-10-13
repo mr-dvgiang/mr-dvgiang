@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/oracle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/oracle-light.svg"><img src="awaken/oracle-dark.svg" width="49%" alt="mr-dvgiang: oracle scroll"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="mr-dvgiang: daily quest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="mr-dvgiang: penalty zone"></picture>
 </p>
 
 <p align="center">
