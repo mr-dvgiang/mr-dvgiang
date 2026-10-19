@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "boss-slayer",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-11T20:56:16.692Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -101,7 +93,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 13
+      "value": 12
     },
     {
       "id": "raider",
@@ -187,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-10-19",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-10-18",
         "cleared": 0,
         "total": 3
@@ -256,5 +253,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-10-18T19:23:52.622Z"
+  "syncedAt": "2026-10-19T21:28:06.850Z"
 }
