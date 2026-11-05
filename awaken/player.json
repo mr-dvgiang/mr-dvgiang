@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "0",
-      "to": "1",
-      "at": "2026-10-29T21:44:52.803Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -96,12 +88,12 @@
     {
       "id": "weekend-warrior",
       "tier": 0,
-      "value": 14
+      "value": 13
     },
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 12
+      "value": 13
     },
     {
       "id": "raider",
@@ -151,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 13
+      "value": 14
     },
     {
       "id": "daily-grinder",
@@ -166,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 9
+      "value": 10
     },
     {
       "id": "boss-slayer",
@@ -176,7 +168,7 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-05",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-04",
         "cleared": 0,
@@ -330,11 +327,11 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 9,
+    "questsDone": 10,
     "bosses": [
       "2026-10-05"
     ],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
       "average",
@@ -342,5 +339,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-04T22:34:24.644Z"
+  "syncedAt": "2026-11-05T22:39:08.851Z"
 }
