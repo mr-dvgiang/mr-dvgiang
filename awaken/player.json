@@ -2,7 +2,7 @@
   "login": "mr-dvgiang",
   "level": 3,
   "overall": "A",
-  "overallPercentile": 0.883882519059679,
+  "overallPercentile": 0.8846105944759198,
   "layout": "default",
   "class": {
     "name": "Warden",
@@ -37,9 +37,9 @@
     },
     {
       "code": "LUK",
-      "value": 4,
-      "rank": "B",
-      "percentile": 0.8569497464419764
+      "value": 5,
+      "rank": "A",
+      "percentile": 0.87168922554903
     },
     {
       "code": "CHA",
@@ -49,6 +49,13 @@
     }
   ],
   "events": [
+    {
+      "kind": "stat",
+      "subject": "LUK",
+      "from": "B",
+      "to": "A",
+      "at": "2026-11-15T21:42:43.224Z"
+    },
     {
       "kind": "achievement",
       "subject": "escape-artist",
@@ -126,7 +133,7 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 4
+      "value": 5
     },
     {
       "id": "beacon",
@@ -166,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 13
+      "value": 14
     },
     {
       "id": "boss-slayer",
@@ -186,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-15",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-14",
         "cleared": 1,
@@ -380,7 +392,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 13,
+    "questsDone": 14,
     "bosses": [
       "2026-10-05"
     ],
@@ -392,5 +404,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-14T21:24:16.169Z"
+  "syncedAt": "2026-11-15T21:42:43.224Z"
 }
