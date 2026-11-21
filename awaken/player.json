@@ -55,13 +55,6 @@
       "from": "B",
       "to": "A",
       "at": "2026-11-15T21:42:43.224Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "escape-artist",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-14T21:24:16.169Z"
     }
   ],
   "achievements": [
@@ -173,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 15
+      "value": 16
     },
     {
       "id": "boss-slayer",
@@ -193,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-21",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-20",
         "cleared": 1,
@@ -417,7 +415,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 15,
+    "questsDone": 16,
     "bosses": [
       "2026-10-05"
     ],
@@ -429,5 +427,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-20T23:03:09.640Z"
+  "syncedAt": "2026-11-21T22:09:37.000Z"
 }
