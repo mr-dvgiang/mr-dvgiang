@@ -48,15 +48,7 @@
       "percentile": 0.6689367771328458
     }
   ],
-  "events": [
-    {
-      "kind": "stat",
-      "subject": "LUK",
-      "from": "B",
-      "to": "A",
-      "at": "2026-11-15T21:42:43.224Z"
-    }
-  ],
+  "events": [],
   "achievements": [
     {
       "id": "pull-shark",
@@ -186,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-22",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-21",
         "cleared": 1,
@@ -427,5 +424,5 @@
       "star"
     ]
   },
-  "syncedAt": "2026-11-21T22:09:37.000Z"
+  "syncedAt": "2026-11-22T22:25:35.609Z"
 }
